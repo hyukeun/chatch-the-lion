@@ -1,16 +1,16 @@
-console.log("Hello world!");
+// console.log("Hello world!");
 
-import HelloHi,{Hello,user} from './type';
+// import HelloHi,{Hello,user} from './type';
 
-const helloMessage : Hello = {
-    text : 'hello world!'
-}
+// const helloMessage : Hello = {
+//     text : 'hello world!'
+// }
 
-user.name
+// user.name
 
-const u: HelloHi = {
-    hi(){
+// const u: HelloHi = {
+//     hi(){
 
-    },
-    text:'h'
-}
+//     },
+//     text:'h'
+// }
