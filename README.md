@@ -1,6 +1,6 @@
-# PROJECT
+# MINI PROJECT
 
-## Typescript를 이용해서 만든 PROJECT 입니다.
+## Typescript를 이용해서 만든 MINI PROJECT 입니다.
 
 <br/>
 
