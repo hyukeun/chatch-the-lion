@@ -1,6 +1,10 @@
-# PROJECT : chatch-the-lion
+# PROJECT
 
 ## Typescript를 이용해서 만든 PROJECT 입니다.
+
+<br/>
+
+### 들어가기전에 어떻게 작업을 해야하는지에 대한것을 작성했습니다.
 
 <details>
 
@@ -65,3 +69,20 @@ const helloMessage : Hello = {
 - 여기서 사용되는 export와 import는 es6에서 사용되는 문법과 동일하다. 마찬가지로 user에 name을 만들어줘서 export로 접근할 수 있으며, export 사용시 특정한 변수, 이름, 상수, 함수, 클래스등 인터페이스들의 이름을 통해서 export할 수 있고 모든 모듈에서는 default로 사용된 export를 사용할 수 있다.
 
 </details>
+<br/>
+
+___
+
+<br/>
+
+## Name : Catch the lion
+
+<br/>
+
+#### 추가적으로 bootstrap 사용했습니다.
+
+```js
+npm i bootstrap
+```
+
+-
