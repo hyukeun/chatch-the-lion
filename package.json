@@ -1,0 +1,25 @@
+{
+  "name": "chatch-the-lion",
+  "version": "1.0.0",
+  "description": "## Typescript로 만들어진 Project 입니다.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyukeun/chatch-the-lion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyukeun/chatch-the-lion/issues"
+  },
+  "homepage": "https://github.com/hyukeun/chatch-the-lion#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.3"
+  }
+}
